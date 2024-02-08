@@ -39,7 +39,8 @@ body{
   }
 
   #aboutWord{
-    text-align: center;
-    
+    float: center;
+    margin: auto;
+    width: 12.5%;
 
   }
