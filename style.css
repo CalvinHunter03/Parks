@@ -4,17 +4,40 @@ body{
 
 }
 
+/*
+  Sage green = #C7D69E;
+
+*/
  #PorterImage{
   max-width:100%;
   height:auto;
+
   
  }
 
  #UCSCBox{
 
-  width:500px;
-  height: 250px;
-  background-color:#C7D69E;
+  width:650px;
+  height: 350px;
+
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+
+  border: 15px solid;
+  border-color: #091138;
+  border-radius: 50px;
+  border-right-color:#060d2e;
+  border-bottom-color:#060d2e;
+  background-color: #213182;
+  
+  
   
 
+ }
+
+ #headingText{
+  color: #d19f21;
+  
  }
