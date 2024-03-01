@@ -1,46 +1,20 @@
 body{
-    background-color:#C7D69E;
+  background-image: url("Index Picture/Porter:RC:Oakes:Ocean.jpeg");
+  background-size: 100%;
+
 }
 
- /*
- This makes it horizontal
- */
- .header {
-    padding: 0 70px;
-    display: flex;
-    align-content: center;
-    justify-content: space-between;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    background-color:#A8BF66;
-    border-style:outset;
-    border-color: #5A6047;
-  }
+ #PorterImage{
+  max-width:100%;
+  height:auto;
+  
+ }
 
-.logo{
-    font-family:"Raleway","consolas", "sans-serif";
-    
-}
+ #UCSCBox{
 
-.nav {
-    display: flex;
-    align-content: center;
-    justify-content: center;
-    gap: 60px;
-    list-style-type: none;
-    margin-top: 26px;
-    font-family: "EB Garamond", "consolas", sans-serif;
-  }
+  width:500px;
+  height: 250px;
+  background-color:#C7D69E;
+  
 
-.nav li a {
-    text-decoration: none;
-    color: darkgreen;
-    font-size: 1.2rem;
-  }
-
-  #aboutWord{
-    float: center;
-    margin: auto;
-    width: 12.5%;
-
-  }
+ }
