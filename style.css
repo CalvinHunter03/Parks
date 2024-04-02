@@ -39,5 +39,20 @@ body{
 
  #headingText{
   color: #d19f21;
+  text-align: center;
+  padding:2%;
   
+  
+ }
+ #headingLinkColor:link{
+  color:#d19f21;
+ }
+ #headingLinkColor:visited{
+  color:#d19f21;
+ }
+ #headingLinkColor:hover{
+  color:#d19f21;
+ }
+ #headingLinkColor:active{
+  color:white;
  }
